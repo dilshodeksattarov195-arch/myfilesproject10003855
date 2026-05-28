@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsalculate",
+        "uuid": 34159155,
+        "checksum": "raklrf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
